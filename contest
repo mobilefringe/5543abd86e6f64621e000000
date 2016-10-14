@@ -146,8 +146,7 @@
                 if (e == true){
                     var name = $("#firstName").val() + " " + $("#lastName").val();
                     $('input[name="cm-name"]').attr('value',name);
-                    // var date = new Date;
-                    var date = moment();
+                    var date = new Date;
                     contest_id = (get_month(date.getMonth())) + date.getFullYear();
                     $('input[name="cm-f-jitjju"]').attr('value',contest_id);
                     if ($("#newsletter_signup").prop("checked") == true){
