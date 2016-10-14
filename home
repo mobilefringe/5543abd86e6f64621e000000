@@ -109,10 +109,8 @@
                 }
                 if (start <= today){
                 if (val.end_date){
-                    //  end = new Date (val.end_date);
-                    //  end.setDate(end.getDate() + 1);
-                     
-                    end = moment(val.end_date);
+                     end = new Date (val.end_date);
+                     end.setDate(end.getDate() + 1);
                     if (end >= today){
                         item_list.push(val);  
                     }
