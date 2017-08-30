@@ -50,10 +50,6 @@
     <!--MallMaverick v=0.3-->
     <script src="//mallmaverick.codecloudapp.com/mallmaverick_v4.js"></script>
     <script src="//mallmaverick.codecloudapp.com/mustache_mallmaverick.js?v=0.3"></script>
-    
-    
-
-
 
     <script>
         $(document).ready(function() {
@@ -95,7 +91,7 @@
             });      
         });
         
-        setEndPoint('//parkwaywest.mallmaverick.com/api/v4/parkwaywest/all.json');
+        setEndPoint('//twinpines.mallmaverick.com/api/v4/twinpines/all.json');
     </script>
     <style>
         /*custom styles*/
