@@ -92,7 +92,8 @@
             });      
         });
         
-        setEndPoint('//parkwaywest.mallmaverick.com/api/v4/parkwaywest/all.json');
+        // setEndPoint('//parkwaywest.mallmaverick.com/api/v4/parkwaywest/all.json');
+        setEndPoint('//twinpine.mallmaverick.com/api/v4/twinpine/all.json');
     </script>
     <style>
         /*custom styles*/
