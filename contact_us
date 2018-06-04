@@ -13,7 +13,7 @@
     </div>
     <div class="inside_page_content">
         <div class="left_column">
-            <img class="inside_banner_image" alt="banner" src="//kodekloud.s3.amazonaws.com/sites/5543abd86e6f64621e000000/511d6cf3a64f0030d183c6d7674199e1/contactus.png"/>
+            <img class="inside_banner_image" alt="" src="//kodekloud.s3.amazonaws.com/sites/5543abd86e6f64621e000000/511d6cf3a64f0030d183c6d7674199e1/contactus.png"/>
             <div class="show_mobile">
                 <p class="right_column_header">centre information</p>
                 <div id="centre_info_container_mobile">
