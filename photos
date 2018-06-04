@@ -121,7 +121,6 @@
         };
 
         loadMallData(renderAll);  
-
     });
     
 </script>
