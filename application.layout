@@ -698,8 +698,8 @@
     
     function showScrollToTop(){
         $('a').smoothScroll({
-            speed: 1250;
-            offset: -60;
+            speed: 1250,
+            offset: -60,
         })
         if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
             document.getElementById("toTop").style.display = "block";
