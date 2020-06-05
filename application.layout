@@ -38,7 +38,7 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- jQuery Version 1.11.0 -->
-    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <!--<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>-->
     <script src="//code.jquery.com/jquery-3.5.1.min.js"></script>
     
     <script src="//codecloud.cdn.speedyrails.net/sites/5b158d326e6f6426b2150000/text/javascript/1567541289711/moment.min.js"></script>
