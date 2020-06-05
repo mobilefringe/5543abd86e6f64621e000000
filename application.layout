@@ -705,9 +705,9 @@
             offset: -60,
         })
         if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-            document.getElementById("toTop").style.display = "block";
+            document.getElementById("back-top").style.display = "block";
         } else {
-            document.getElementById("toTop").style.display = "none";
+            document.getElementById("back-top").style.display = "none";
         }
     }
     
