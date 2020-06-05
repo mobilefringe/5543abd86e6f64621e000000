@@ -255,7 +255,7 @@
 </head>
 <body>
 <div class="main_window">
-<header>
+<header id="top">
     <a class="accessible" href="#page_content">[Skip to Content]</a>
      <div class="container">
           <nav class="navbar navbar-default" role="navigation">
